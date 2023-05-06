@@ -115,7 +115,7 @@ class _MyHomePageScreenState extends State<MyHomePageScreen> {
                         focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.circular(25),
                             borderSide:
-                                BorderSide(color: Colors.black, width: 5)),
+                                BorderSide(color: Colors.blue, width: 5)),
                         icon: Icon(Icons.trending_up),
                       ),
                     ),
